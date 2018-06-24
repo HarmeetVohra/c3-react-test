@@ -1,0 +1,48 @@
+@import './variables';
+
+.pearson-container {
+    position: relative;
+    margin: 58.5px $default-padding $default-padding;
+    padding: 0;
+    width: $card-width;
+    height: $card-height;
+    background-color: $card-color;
+    box-shadow: 2px 2px 2px $shadow-color;
+
+    p {
+        text-align: center;
+        font-size: $font-md;
+        color: $card-title-color;
+    }
+
+    img {
+        border-radius: 50%;
+        width: $avatar-size;
+        height: $avatar-size;
+        position: absolute;
+        top: -40px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    button {
+        -webkit-appearance: none;
+        appearance: none;
+        align-self: flex-start;
+        padding: 2px 5px;
+        cursor: pointer;
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        font-size: $font-sm;
+        color: $primary-color;
+        text-align: left;
+    }
+
+    .pearson-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        height: 100%;
+    }
+}

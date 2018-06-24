@@ -1,0 +1,17 @@
+.error-notification {
+  position: relative;
+  padding: 20px;
+  margin: 20px;
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  display: flex;
+  align-items: center;
+  border: 1px solid transparent;
+  border-radius: 0.5rem; }
+  .error-notification img {
+    width: 20px;
+    height: 20px; }
+  .error-notification .error-message {
+    font-size: 1.4rem;
+    margin-left: 10px; }

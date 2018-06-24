@@ -1,0 +1,12 @@
+.pearson-users h1 {
+  font-size: 3.6rem;
+  color: #007fa3;
+  padding-left: 18.5px; }
+
+.pearson-users .pearson-user-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #d8d8d8;
+  padding: 18.5px; }

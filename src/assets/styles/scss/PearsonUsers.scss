@@ -1,0 +1,18 @@
+@import './variables';
+
+.pearson-users {
+    h1 {
+        font-size: $font-h1;
+        color: $primary-color;
+        padding-left: $default-padding;
+    }
+
+    .pearson-user-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        background-color: $secondary-color;
+        padding: $default-padding;
+    }
+}
