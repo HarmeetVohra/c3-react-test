@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "first_name": "George",
+      "last_name": "Bluth",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 2,
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 3,
+      "first_name": "Emma",
+      "last_name": "Wong",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 4,
+      "first_name": "Eve",
+      "last_name": "Holt",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 5,
+      "first_name": "Charles",
+      "last_name": "Morris",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 6,
+      "first_name": "Tracey",
+      "last_name": "Ramos",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 7,
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 8,
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 9,
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "assets/test.jpg"
+    },
+    {
+      "id": 10,
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "assets/test.jpg"
+    }
+  ]

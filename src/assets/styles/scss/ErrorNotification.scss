@@ -1,0 +1,24 @@
+@import './variables';
+
+.error-notification {
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+    color: $error-text-color;
+    background-color: $error-background-color;
+    border-color: $error-border-color;
+    display: flex;
+    align-items: center;
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+
+    img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .error-message {
+        font-size: $font-sm;
+        margin-left: 10px;
+    }
+}

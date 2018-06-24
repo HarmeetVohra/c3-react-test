@@ -1,0 +1,20 @@
+@import './variables';
+
+.confirmation-alert {
+    text-align: center;
+    padding: 40px;
+    background: $primary-color;
+    color: $alert-text-color;
+    box-shadow: 0 20px 75px $shadow-color;
+
+    button {
+        width: 160px;
+        padding: 10px;
+        margin: 10px;
+        font-size: $font-sm;
+        color: $alert-text-color;
+        border: 1px solid $alert-btn-border-color;
+        background: none;
+        cursor: pointer;
+    }
+}
